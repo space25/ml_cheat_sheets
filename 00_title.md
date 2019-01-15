@@ -2,7 +2,7 @@
 
 # The Big Picture in Research.
 
-![](https://drive.google.com/file/d/1U35jxA0Z1DDQn73kBGIFdNGvTrckAYJT/view?usp=sharing "The Big Picture")
+![](images/The Big Picture in Research.svg "The Big Picture")
 
 # [**Introduction**](https://www.notion.so/ideasbox/Introduction-5cf821f1ef1a41528791b82fe00f7d2b)
 
