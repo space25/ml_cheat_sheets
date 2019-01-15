@@ -4,7 +4,7 @@
 
 ![](images/The_Big_Picture_in_Research.svg "The Big Picture")
 
-# [**Introduction**](https://www.notion.so/ideasbox/Introduction-5cf821f1ef1a41528791b82fe00f7d2b)
+# [**Introduction**](01_Introduction.md)
 
 # **Get started**
 
