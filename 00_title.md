@@ -2,7 +2,7 @@
 
 # The Big Picture in Research.
 
-![](./images/The_Big_Picture_in_Research.svg "The Big Picture")
+<img src="./images/The_Big_Picture_in_Research.svg"/>
 
 # [**Introduction**](01_Introduction.md)
 
