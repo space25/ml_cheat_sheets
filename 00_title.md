@@ -2,7 +2,7 @@
 
 # The Big Picture in Research.
 
-<img src="./images/The_Big_Picture_in_Research.svg"/>
+<img width="1024" src="./images/The_Big_Picture_in_Research.svg"/>
 
 # [**Introduction**](01_Introduction.md)
 
